@@ -1,0 +1,6 @@
+{
+  "name": "ResumeScreen AI - CV Screener & Shortlister",
+  "description": "AI-powered bulk resume screening, candidate ranking, and Excel summary generator based on custom Job Descriptions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
